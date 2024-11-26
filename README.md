@@ -28,28 +28,28 @@ jupyter notebook CustomerReviewsAnalysis_(3).ipynb
 ```
 Follow the notebook instructions to preprocess data, train models, and evaluate results.
 ## Project Workflow
-**Data Preprocessing**:
+### Data Preprocessing:
 
 Text cleaning and tokenization.
 Handling missing values and balancing datasets.
-**Model Training**:
+### Model Training:
 
 - Train machine learning models (e.g., Random Forest, SVM).
 - Train deep learning models (e.g., LSTM, CNN).
-**STV Voting Method**:
+### STV Voting Method:
 
 - Aggregate predictions from different models to improve classification performance.
-**Evaluation**:
+### Evaluation:
 
 - Accuracy, precision, recall, and F1-score metrics.
 - Comparative analysis of individual models and the ensemble method.
-**Visualization**:
+### Visualization:
 
 - Generate plots for sentiment distribution and model performance.
 ## Results
 Achieved improved accuracy and robustness using the STV voting method.
 Demonstrated the effectiveness of combining machine learning and deep learning for text analysis tasks.
-Contributing
+## Contributing
 Contributions are welcome!
 ## License
 This project is licensed under the MIT License.
